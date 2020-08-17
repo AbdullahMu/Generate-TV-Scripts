@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="generate-tv-scripts">Generate TV Scripts</h1>
 <h3 id="introduction">Introduction</h3>
 <p>In this project, you’ll generate your own Seinfeld TV scripts using RNNs. You’ll be using a Seinfeld dataset of scripts from 9 seasons. The Neural Network you’ll build will generate a new, “fake” TV script.</p>
